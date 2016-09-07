@@ -13,7 +13,7 @@ public class framworktestAction {
 
 	@RequestMapping(value="deploy")
 	public void test(){
-		System.out.println("------------start----------");
+		System.out.println("------------startasdfds----------");
 		System.out.println("------------end------------");
 	}
 	
